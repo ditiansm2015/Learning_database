@@ -3,7 +3,7 @@
 
 **----------------------------------------------------- Day 1 -----------------------------------------------------------**
 
-                                          **Flipkart Customer Interaction**
+                                          **Basics of ML-**
 
 Built two python classes -  Flipkart and Dbhelper and created a small interactive CLI to let a user create his user account (by entering Name, Email ID password) or login (by passing Email ID and password). 
 
